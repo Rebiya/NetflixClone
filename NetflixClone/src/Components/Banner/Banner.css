@@ -1,9 +1,10 @@
 .banner {
   margin-top: -10vh;
-  /* height: 80vh; */
+  height: 130vh;
   margin-bottom: -80px;
   color: white;
   object-fit: contain;
+  width: 100%;
 }
 .banner__contents {
   margin-left: 30px;
