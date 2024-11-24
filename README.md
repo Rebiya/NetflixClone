@@ -167,3 +167,4 @@ NetflixClone/
      npm install
      ```
  Replace `<your-username>` with your GitHub username!
+ Check out the deployed version of my Netflix clone here: https://rebiya.github.io/NetflixClone/
